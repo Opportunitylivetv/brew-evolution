@@ -1,9 +1,2 @@
-# Homebrew Evolution
-This repository tracks the ongoing evolution of Homebrew. It contains:
-
-* The [Homebrew evolution process](process.md) that governs the evolution of Homebrew.
-* [Commonly Rejected Proposals](commonly_rejected_proposals.md) which have been denied in the past.
-
----
-
-Inspired by the [Swift Programming Language Evolution](https://github.com/apple/swift-evolution) repository.
+# Homebrew Evolution (deprecated)
+This repository was an experiment to tracks the ongoing evolution of Homebrew. It has been replaced with [feature requests on Homebrew/brew](https://github.com/Homebrew/brew/issues/new).
